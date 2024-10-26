@@ -1,8 +1,9 @@
-# React + Vite
+# BPL 11
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Description : The site you shared appears to be dedicated to the Bangladesh Premier League (BPL) cricket tournament, specifically its 11th season. It provides information about teams, schedules, live scores, and tournament updates. This resource aims to keep fans updated on match results, player stats, and team standings.
 
-Currently, two official plugins are available:
+Technologies use:Tailwind ,daisyUi,react toastify
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Features:1.You can choose player
+- 2.Free money
+- 3.Toastify
